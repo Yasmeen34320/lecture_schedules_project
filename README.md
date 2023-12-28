@@ -1,4 +1,4 @@
-﻿# Getting Started with Create React App
+﻿# lecture_schedules_project
 ## 1 - 
 `First` the table is shown to all the students without any signup or accounts 
 ## 2 -
