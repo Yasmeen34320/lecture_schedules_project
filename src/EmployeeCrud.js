@@ -337,7 +337,7 @@ const pagination =(pageNo)=>{
                                  setCur(0);
                                  setCurrent(1);
                            
-                              } }class="btn btn-success d5"><i class="fa fa-plus-circle icon"></i> Computer</button>
+                              } }class={`btn ${window.departement === "computer" ? "btn-success" : "btn-secondary"} d5`} ><i class="fa fa-plus-circle icon"></i> Computer</button>
                                
                             </div>
                             <div class="col-4">
@@ -347,7 +347,7 @@ const pagination =(pageNo)=>{
                           setCur(0);
                           setCurrent(1);
                        
-                          } } class="btn btn-success d5"><i class="fa fa-plus-circle icon"></i> Communication</button>
+                          } } class={`btn ${window.departement === "communication" ?"btn-success" : "btn-secondary"}  d5`}><i class="fa fa-plus-circle icon"></i> Communication</button>
                                
                             </div>
                             <div class="col-4">
@@ -356,7 +356,7 @@ const pagination =(pageNo)=>{
                                   setCur(0);
                                   setCurrent(1);
                           
-                             } } class="btn btn-success d5"><i class="fa fa-plus-circle icon"></i> Electrical</button>
+                             } } class={`btn ${window.departement === "electrical" ? "btn-success" : "btn-secondary"} d5`}><i class="fa fa-plus-circle icon"></i> Electrical</button>
                                
                             </div>
           </div>
