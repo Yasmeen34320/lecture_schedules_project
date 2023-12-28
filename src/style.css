@@ -1,0 +1,56 @@
+.name{
+    font-weight: bold;
+    font-family: 'Varela Round';
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.cl{
+    width: 25px;
+}
+.l1{
+    background-color: #6D6027;
+}
+.l2{
+    background-color: #6D6027;
+}
+.l{
+    font-weight: bold;
+    font-family: 'Varela Round';
+    text-align: center;
+}
+.bbb1{
+    font-weight: bold;
+    font-family: 'Varela Round';
+    text-align: center;
+}
+.bbb{
+   
+    font-family: 'Varela Round';
+    text-align: center;
+}
+.cc1{
+    margin-bottom: 10px;
+}
+.c{
+    font-weight: bold;
+    font-family: 'Varela Round';
+    /* text-align: center; */
+    margin-top: 10px;
+    
+}
+.c2{
+    font-weight: bold;
+    font-family: 'Varela Round';
+    text-align: center;
+    margin-left: 5px;
+}
+.c1{
+    font-weight: bold;
+    font-family: 'Varela Round';
+   align-items: flex-end;
+   display: flex;
+    margin-right: 200px;
+    
+    margin-bottom: 40px;
+}

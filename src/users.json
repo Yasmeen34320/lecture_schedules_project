@@ -1,0 +1,29 @@
+ [
+      {
+        "username": "alaa",
+        "password": "1234567891",
+        "email": "alaa123@gmail.com" 
+      },
+      {
+        "username": "yasmeen",
+        "password": "1234567892",
+        "email": "yasmeen123@gmail.com"
+      },
+      {
+        "username": "yomna",
+      "password": "1234567893",
+      "email": "yomna123@gmail.com"
+      },
+      {
+        "username": "seif",
+        "password": "1234567894",
+        "email": "seif123@gmail.com"
+      },
+      {
+        "username": "ysameenalaa",
+      "password": "1234567895",
+      "email": "y_alaa1234567895@gmail.com"
+      }
+    ]
+ 
+  

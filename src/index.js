@@ -3,12 +3,25 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import EmployeeCrud from './EmployeeCrud';
+import MyTable from './MyTble';
+import Test from './Test';
+import { render } from 'react-dom';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
+import AppRouter from './AppRouter.js';
+import Login from './Login.js';
+global.departement='computer';
+// const root = ReactDOM.createRoot(document.getElementById('root'));
+render(
   <React.StrictMode>
-    <App />
-  </React.StrictMode>
+    {/* <EmployeeCrud /> */}
+    {/* <MyTable/> */}
+    <AppRouter />
+    {/* <App/> */}
+    {/* <Test/> */}
+    {/* <App/> */}
+  </React.StrictMode>,
+  document.getElementById('root')
 );
 
 // If you want to start measuring performance in your app, pass a function

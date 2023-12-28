@@ -1,0 +1,1155 @@
+{
+  "departement":{
+    "name":"communication"
+  },
+  "computer": {
+    "one": {
+      "firstSemester": {
+        "courses": [
+          {
+            "name": "Physics (3-A)"
+          },
+          {
+            "name": "Introduction to Programming"
+          },
+          {
+            "name": "Electrical Circuits (1)"
+          },
+          {
+            "name": "Logic Circuits (1)"
+          },
+          {
+            "name": "Mathematics (3-A)"
+          },
+          {
+            "name": "Fluid Mechanics and Thermodynamics"
+          },
+          {
+            "name": "Development of Thinking Skills"
+          }
+        ]
+      },
+      "secondSemester": {
+        "courses": [
+          {
+            "name": "Mathematics (4-A)"
+          },
+          {
+            "name": "Measurements and Tests"
+          },
+          {
+            "name": "Electronic Materials and Devices"
+          },
+          {
+            "name": "Electromagnetic Field Theory"
+          },
+          {
+            "name": "Electrical Circuits (2)"
+          },
+          {
+            "name": "Civil Engineering"
+          },
+          {
+            "name": "Technical Reporting"
+          }
+        ]
+      }
+    },
+    "two": {
+      "firstSemester": {
+        "courses": [
+          {
+            "name": "Mathematics(5-A)"
+          },
+          {
+            "name": "Logic Circuits (2)"
+          },
+          {
+            "name": "Advanced Programming"
+          },
+          {
+            "name": "Electrical Power and Machines"
+          },
+          {
+            "name": "Electronic Circuits"
+          },
+          {
+            "name": "Administration and Marketing"
+          }
+        ]
+      },
+      "secondSemester": {
+        "courses": [
+          {
+            "name": "Engineering Statistics and Probability"
+          },
+          {
+            "name": "Numerical Analysis and Programming"
+          },
+          {
+            "name": "Computer Architecture"
+          },
+          {
+            "name": "Algorithms And Data Structures"
+          },
+          {
+            "name": "Signal and System Analysis"
+          },
+          {
+            "name": "Engineering Applications in Marine Environment"
+          },
+          {
+            "name": "Environmental Science and Occupational Safety"
+          }
+        ]
+      }
+    },
+    "three": {
+      "firstSemester": {
+        "courses": [
+          {
+            "name": "Microprocessors and Their Applications"
+          },
+          {
+            "name": "Computer Graphics"
+          },
+          {
+            "name": "Fundamentals of Computer Networks"
+          },
+          {
+            "name": "Communications Theory"
+          },
+          {
+            "name": "Electronics Laboratory"
+          },
+          {
+            "name": "Leadership Skills"
+          },
+          {
+            "name": "Machine Learning"
+          }
+        ]
+      },
+      "secondSemester": {
+        "courses": [
+          {
+            "name": "Computer Network Laboratory"
+          },
+          {
+            "name": "Fundamentals of Database"
+          },
+          {
+            "name": "Operating Systems"
+          },
+          {
+            "name": "Automatic Control"
+          },
+          {
+            "name": "Digital Signal Processing"
+          },
+          {
+            "name": "Presentation Skills"
+          },
+          {
+            "name": "Digital Communications"
+          }
+        ]
+      }
+    },
+    "four": {
+      "firstSemester": {
+        "courses": [
+          {
+            "name": "Web Programming Applications"
+          },
+          {
+            "name": "Parallel Processing"
+          },
+          {
+            "name": "Control Systems"
+          },
+          {
+            "name": "Innovation and Entrepreneurship"
+          },
+          {
+            "name": "Pattern Recognition & Image Processing"
+          },
+          {
+            "name": "Advanced Computer Networking"
+          }
+        ]
+      },
+      "secondSemester": {
+        "courses": [
+          {
+            "name": "Digital Image Processing Lab"
+          },
+          {
+            "name": "Wireless Computer Networks"
+          },
+          {
+            "name": "Robotic Systems"
+          },
+          {
+            "name": "Artificial Intelligence"
+          },
+          {
+            "name": "Security Of Computers And Networks"
+          },
+          {
+            "name": "Artificial Intelligence Techniques & Applications"
+          }
+        ]
+      }
+    }
+  },
+  "communication": {
+    "one": {
+      "firstSemester": {
+        "courses": [
+          {
+            "name": "Physics (3-A)"
+          },
+          {
+            "name": "Introduction to Programming"
+          },
+          {
+            "name": "Electrical Circuits (1)"
+          },
+          {
+            "name": "Logic Circuits (1)"
+          },
+          {
+            "name": "Mathematics (3-A)"
+          },
+          {
+            "name": "Fluid Mechanics and Thermodynamics"
+          },
+          {
+            "name": "Development of Thinking Skills"
+          }
+        ]
+      },
+      "secondSemester": {
+        "courses": [
+          {
+            "name": "Mathematics (4-A)"
+          },
+          {
+            "name": "Measurements and Tests"
+          },
+          {
+            "name": "Electronic Materials and Devices"
+          },
+          {
+            "name": "Electromagnetic Field Theory"
+          },
+          {
+            "name": "Electrical Circuits (2)"
+          },
+          {
+            "name": "Civil Engineering"
+          },
+          {
+            "name": "Technical Reporting"
+          }
+        ]
+      }
+    },
+    "two": {
+      "firstSemester": {
+        "courses": [
+          {
+            "name": "Mathematics(5-A)"
+          },
+          {
+            "name": "Logic Circuits (2)"
+          },
+          {
+            "name": "Electromagnetic Waves"
+          },
+          {
+            "name": "Electrical Power and Machines"
+          },
+          {
+            "name": "Electronic Circuits"
+          },
+          {
+            "name": "Administration and Marketing"
+          }
+        ]
+      },
+      "secondSemester": {
+        "courses": [
+          {
+            "name": "Engineering Statistics and Probability"
+          },
+          {
+            "name": "Numerical Analysis and Programming"
+          },
+          {
+            "name": "Computer Architecture"
+          },
+          {
+            "name": "Introduction to Database"
+          },
+          {
+            "name": "Signal and System Analysis"
+          },
+          {
+            "name": "Engineering Applications in Marine Environment"
+          },
+          {
+            "name": "Environmental Science and Occupational Safety"
+          }
+        ]
+      }
+    },
+    "three": {
+      "firstSemester": {
+        "courses": [
+          {
+            "name": "Design of Analog Filters"
+          },
+          {
+            "name": "Communications Theory"
+          },
+          {
+            "name": "Electronics Laboratory"
+          },
+          {
+            "name": "Microprocessors and Their Applications"
+          },
+          {
+            "name": "Fundamentals of Computer Networks"
+          },
+          {
+            "name": "Leadership Skills"
+          },
+          {
+            "name": "Advanced Programming Techniques"
+          }
+        ]
+      },
+      "secondSemester": {
+        "courses": [
+          {
+            "name": "Digital Signal Processing"
+          },
+          {
+            "name": "Microwave Engineering"
+          },
+          {
+            "name": "Digital Communications"
+          },
+          {
+            "name": "Computer Network Laboratory"
+          },
+          {
+            "name": "Automatic Control"
+          },
+          {
+            "name": "Presentation Skills"
+          },
+          {
+            "name": "Navigation and Satellite Communications"
+          }
+        ]
+      }
+    },
+    "four": {
+      "firstSemester": {
+        "courses": [
+          {
+            "name": "Antennas and Wave Propagation"
+          },
+          {
+            "name": "Digital Integrated Circuits"
+          },
+          {
+            "name": "Wireless Communications"
+          },
+          {
+            "name": "Communications and Signal Processing Laboratory"
+          },
+          {
+            "name": "Innovation and Entrepreneurship"
+          },
+          {
+            "name": "Advanced Computer Networks"
+          },
+          {
+            "name": "Mobile Communications"
+          }
+        ]
+      },
+      "secondSemester": {
+        "courses": [
+          {
+            "name": "Communications Electronics"
+          },
+          {
+            "name": "Communications Systems"
+          },
+          {
+            "name": "Analog Integrated Circuits"
+          },
+          {
+            "name": "Wireless Computer Networks"
+          },
+          {
+            "name": "Selected Topics in Electronics"
+          }
+        ]
+      }
+    }
+  },
+  "electrical": {
+    "one": {
+      "firstSemester": {
+        "courses": [
+          {
+            "name": "Physics (3-A)"
+          },
+          {
+            "name": "Introduction to Programming"
+          },
+          {
+            "name": "Electrical Circuits (1)"
+          },
+          {
+            "name": "Logic Circuits (1)"
+          },
+          {
+            "name": "Mathematics (3-A)"
+          },
+          {
+            "name": "Fluid Mechanics and Thermodynamics"
+          },
+          {
+            "name": "Development of Thinking Skills"
+          }
+        ]
+      },
+      "secondSemester": {
+        "courses": [
+          {
+            "name": "Mathematics (4-A)"
+          },
+          {
+            "name": "Measurements and Tests"
+          },
+          {
+            "name": "Electronic Materials and Devices"
+          },
+          {
+            "name": "Electromagnetic Field Theory"
+          },
+          {
+            "name": "Electrical Circuits (2)"
+          },
+          {
+            "name": "Civil Engineering"
+          },
+          {
+            "name": "Technical Reporting"
+          }
+        ]
+      }
+    },
+    "two": {
+      "firstSemester": {
+        "courses": [
+          {
+            "name": "Mathematics(5-A)"
+          },
+          {
+            "name": "Electronic Circuits"
+          },
+          {
+            "name": "Electromagnetic Fields (2)"
+          },
+          {
+            "name": "Electrical Machines (1)"
+          },
+          {
+            "name": "Thermal Power Stations"
+          },
+          {
+            "name": "Administration and Marketing"
+          }
+        ]
+      },
+      "secondSemester": {
+        "courses": [
+          {
+            "name": "Engineering Statistics and Probability"
+          },
+          {
+            "name": "Signal and System Analysis"
+          },
+          {
+            "name": "Stresses Analysis and Machines Design"
+          },
+          {
+            "name": "Electrical Power (1)"
+          },
+          {
+            "name": "Energy Conversion"
+          },
+          {
+            "name": "Engineering Applications in Marine Environment"
+          },
+          {
+            "name": "Environmental Science and Occupational Safety"
+          }
+        ]
+      }
+    },
+    "three": {
+      "firstSemester": {
+        "courses": [
+          {
+            "name": "Electrical Machines (2)"
+          },
+          {
+            "name": "Electrical Power (2)"
+          },
+          {
+            "name": "Electrical Experimentation (1)"
+          },
+          {
+            "name": "Microprocessors and Their Applications"
+          },
+          {
+            "name": "Automatic Control"
+          },
+          {
+            "name": "Leadership Skills"
+          },
+          {
+            "name": "Communication Theory"
+          }
+        ]
+      },
+      "secondSemester": {
+        "courses": [
+          {
+            "name": "Electrical Machines (3)"
+          },
+          {
+            "name": "Electrical Power (3)"
+          },
+          {
+            "name": "Power Electronics (1)"
+          },
+          {
+            "name": "High Voltage Engineering"
+          },
+          {
+            "name": "Electrical Experimentation (2)"
+          },
+          {
+            "name": "Presentation Skills"
+          },
+          {
+            "name": "Digital Signal Processing"
+          }
+        ]
+      }
+    },
+    "four": {
+      "firstSemester": {
+        "courses": [
+          {
+            "name": "Switchgear and Protection Engineering (1)"
+          },
+          {
+            "name": "Electrical Power Utilization"
+          },
+          {
+            "name": "Electrical Experimentation (3)"
+          },
+          {
+            "name": "Communications and Signal Processing Laboratory"
+          },
+          {
+            "name": "Innovation and Entrepreneurship"
+          },
+          {
+            "name": "Modern Electrical Machines Theory"
+          },
+          {
+            "name":"New and Renewable Energy"
+          }
+        ]
+      },
+      "secondSemester": {
+        "courses": [
+          {
+            "name": "Electrical Power Distribution Systems"
+          },
+          {
+            "name": "Power Electronics (2)"
+          },
+          {
+            "name": "Switchgear and Protection Engineering (2)"
+          },
+          {
+            "name": "Electrical Experimentation (4)"
+          },
+          {
+            "name": "Industrial Process Control"
+          },
+          {
+            "name": "Special Electrical Machines"
+          }
+        ]
+      }
+    }
+  },"places":[
+    {
+      "name":"hall(2)"
+    },{
+      "name":"hall(A)"
+    },{
+      "name":"hall(B)"
+    },{
+      "name":"504(A)"
+    },{
+      "name":"504(B)"
+    },{
+      "name":"501"
+    },{
+      "name":"511"
+    },{
+      "name":"512"
+    },{
+      "name":"508"
+    },{
+      "name":"509"
+    },{
+      "name":"515"
+    },{
+      "name":"lab(6)"
+    },{
+      "name":"lab(4)"
+    },{
+      "name":"lab(PLC)"
+    },{
+      "name":"Measurements lab"
+    },{
+      "name":"Electrical engineering lab"
+    },{
+      "name":"Communications lab"
+    },{
+      "name":"Vision lab"
+    },{
+      "name":"Electronics lab"
+    }
+  ] ,"DRname":[
+    {
+      "name":"Heba youssef "
+    },{
+      "name":"Sally elesawy"
+    },{
+      "name":"Ramadan ali"
+    },{
+      "name":"Asmaa rady"
+    },{
+      "name":"Mohamed soliman"
+    },{
+      "name":"Hala elhadidy"
+    },{
+      "name":"Wala saber"
+    } ,{
+        "name":  "Amany elhariry"
+    },{
+        "name":  "Ibrahim hosney"
+    },{
+        "name":  "Mohamed elghandour"
+    },{
+        "name":  "Ahmed amer"
+    },{
+        "name":  "Ahme refaat"
+    },{
+        "name":  "Ahmed kalas"
+    },{
+        "name":  "Ahmed abouzaid"
+    },{
+        "name":  "Osama elbaasawy"
+    },{
+        "name":  "Mohamed farouk"
+    },{
+        "name":  "Rehab farouk"
+    },{
+        "name":  "Heba abdelatty"
+    },{
+        "name":  "Ahmed dawood"
+    },{
+        "name":  "Kamel elserafy"
+    },{
+        "name":  "Medhat hegazy"
+    },{
+        "name":  "Mahmoud fawzy"
+    },{
+        "name":  "ibrahem elnahry"
+    },{
+        "name":  "Ramadan abdelall"
+    },{
+        "name":  " Eslam shalan"
+    },{
+        "name":  "Rania abdallah"
+    },{
+        "name":  "Rabab moustafa"
+    },{
+        "name":  "Mona hamouda"
+    },{
+        "name":  "Sally saad"
+    },{
+        "name":  "Ahmed abdelrazek"
+    },{
+        "name":  "Sherif sharowsh"
+    },{
+        "name":  "Mona nashat"
+    },{
+        "name":  "Heba nashat"
+    },{
+        "name":  "Emad elayed"
+    },{
+        "name":  "Sherif abouelenin"
+    },{
+        "name":  "Rawia rizk"
+    },{
+        "name":  "Asmaa refaat"
+    },{
+        "name":  "Asmaa khaled"
+    },{
+        "name":  "Randa atta"
+    },{
+        "name":  "Osama refaat"
+    },{
+        "name":  "Shereen elsheeby"
+    },{
+        "name":  "Wafaa rashed"
+    },{
+        "name":  "Radwa atia"
+    },{
+        "name":  "Rabab Ramadan"
+    },{
+        "name":  "Ahmed hosney"
+    },{
+        "name":  "Amira mahmoud"
+    }
+  ],"Eng name":[
+    {
+    "name": "Frial elbhy" 
+  },{
+    "name":  "Eman marzouk"
+  },{
+    "name": "Rovan refaat" 
+  },{
+    "name":  "Noran elaraby"
+  },{
+    "name":  "Alaa ashraf"
+  },{
+    "name":  "Manar adel"
+  },{
+    "name":  "Moemen alaa"
+  },{
+    "name":  "Youssef ashour"
+  },{
+    "name":  "Aya magdy"
+  },{
+    "name":  "Hala waheeb"
+  },{
+    "name":  "Osama elashty"
+  },{
+    "name":  "Mariam Raef"
+  },{
+      "name":  "Nada hany"
+    },{
+      "name":  "Mai abouhashish"
+    },{
+      "name":  "Menna mohsen"
+    },{
+      "name":  "Ahmed abdelkareem"
+    },{
+      "name":  "Shimaa fathy"
+    },{
+      "name":  "Rahma tamam"
+    },{
+      "name":  "Omar eltabey"
+    },{
+      "name": "Shimaa el ghetany" 
+    },{
+      "name":  "Nada ahmed"
+    },{
+      "name":  "Aya abdelhady"
+    },{
+      "name":  "Aya yakoot"
+    },{
+      "name":  "Noran ali"
+    },{
+      "name":  "Nada ashraf"
+    }
+    ] , 
+    "schedules": [ 
+      {
+        "name": "First Grade-Saturday-1st"
+      },
+      {
+        "name": "First Grade-Saturday-2nd"
+      },
+      {
+        "name": "First Grade-Saturday-3rd"
+      },
+      {
+        "name": "First Grade-Saturday-4th"
+      },
+      {
+        "name": "First Grade-Saturday-5th"
+      },
+      {
+        "name": "First Grade-Sunday-1st"
+      },
+      {
+        "name": "First Grade-Sunday-2nd"
+      },
+      {
+        "name": "First Grade-Sunday-3rd"
+      },
+      {
+        "name": "First Grade-Sunday-4th"
+      },
+      {
+        "name": "First Grade-Sunday-5th"
+      },
+      {
+        "name": "First Grade-Monday-1st"
+      },
+      {
+        "name": "First Grade-Monday-2nd"
+      },
+      {
+        "name": "First Grade-Monday-3rd"
+      },
+      {
+        "name": "First Grade-Monday-4th"
+      },
+      {
+        "name": "First Grade-Monday-5th"
+      },
+      {
+        "name": "First Grade-Tuesday-1st"
+      },
+      {
+        "name": "First Grade-Tuesday-2nd"
+      },
+    
+      {
+        "name": "First Grade-Tuesday-4th"
+      },
+      {
+        "name": "First Grade-Tuesday-5th"
+      },
+      {
+        "name": "First Grade-Wednesday-1st"
+      },
+      {
+        "name": "First Grade-Wednesday-2nd"
+      },
+      {
+        "name": "First Grade-Wednesday-3rd"
+      },
+      {
+        "name": "First Grade-Wednesday-4th"
+      },
+      {
+        "name": "First Grade-Wednesday-5th"
+      },
+      {
+        "name": "First Grade-Thursday-1st"
+      },
+      {
+        "name": "First Grade-Thursday-2nd"
+      },
+      {
+        "name": "First Grade-Thursday-3rd"
+      },
+      {
+        "name": "First Grade-Thursday-4th"
+      },
+      {
+        "name": "First Grade-Thursday-5th"
+      },
+      {
+        "name": "Second Grade-Saturday-1st"
+      },
+      {
+        "name": "Second Grade-Saturday-2nd"
+      },
+      {
+        "name": "Second Grade-Saturday-3rd"
+      },
+      {
+        "name": "Second Grade-Saturday-4th"
+      },
+      {
+        "name": "Second Grade-Saturday-5th"
+      },
+      {
+        "name": "Second Grade-Sunday-1st"
+      },
+      {
+        "name": "Second Grade-Sunday-2nd"
+      },
+      {
+        "name": "Second Grade-Sunday-3rd"
+      },
+      {
+        "name": "Second Grade-Sunday-4th"
+      },
+      {
+        "name": "Second Grade-Sunday-5th"
+      },
+      {
+        "name": "Second Grade-Monday-1st"
+      },
+      {
+        "name": "Second Grade-Monday-2nd"
+      },
+      {
+        "name": "Second Grade-Monday-3rd"
+      },
+      {
+        "name": "Second Grade-Monday-4th"
+      },
+      {
+        "name": "Second Grade-Monday-5th"
+      },
+      {
+        "name": "Second Grade-Tuesday-1st"
+      },
+      {
+        "name": "Second Grade-Tuesday-2nd"
+      },
+    
+      {
+        "name": "Second Grade-Tuesday-4th"
+      },
+      {
+        "name": "Second Grade-Tuesday-5th"
+      },
+      {
+        "name": "Second Grade-Wednesday-1st"
+      },
+      {
+        "name": "Second Grade-Wednesday-2nd"
+      },
+      {
+        "name": "Second Grade-Wednesday-3rd"
+      },
+      {
+        "name": "Second Grade-Wednesday-4th"
+      },
+      {
+        "name": "Second Grade-Wednesday-5th"
+      },
+      {
+        "name": "Second Grade-Thursday-1st"
+      },
+      {
+        "name": "Second Grade-Thursday-2nd"
+      },
+      {
+        "name": "Second Grade-Thursday-3rd"
+      },
+      {
+        "name": "Second Grade-Thursday-4th"
+      },
+      {
+        "name": "Second Grade-Thursday-5th"
+      }, 
+      
+      {
+        "name": "Third Grade-Saturday-1st"
+      },
+      {
+        "name": "Third Grade-Saturday-2nd"
+      },
+      {
+        "name": "Third Grade-Saturday-3rd"
+      },
+      {
+        "name": "Third Grade-Saturday-4th"
+      },
+      {
+        "name": "Third Grade-Saturday-5th"
+      },
+      {
+        "name": "Third Grade-Sunday-1st"
+      },
+      {
+        "name": "Third Grade-Sunday-2nd"
+      },
+      {
+        "name": "Third Grade-Sunday-3rd"
+      },
+      {
+        "name": "Third Grade-Sunday-4th"
+      },
+      {
+        "name": "Third Grade-Sunday-5th"
+      },
+      {
+        "name": "Third Grade-Monday-1st"
+      },
+      {
+        "name": "Third Grade-Monday-2nd"
+      },
+      {
+        "name": "Third Grade-Monday-3rd"
+      },
+      {
+        "name": "Third Grade-Monday-4th"
+      },
+      {
+        "name": "Third Grade-Monday-5th"
+      },
+      {
+        "name": "Third Grade-Tuesday-1st"
+      },
+      {
+        "name": "Third Grade-Tuesday-2nd"
+      },
+     
+      {
+        "name": "Third Grade-Tuesday-4th"
+      },
+      {
+        "name": "Third Grade-Tuesday-5th"
+      },
+      {
+        "name": "Third Grade-Wednesday-1st"
+      },
+      {
+        "name": "Third Grade-Wednesday-2nd"
+      },
+      {
+        "name": "Third Grade-Wednesday-3rd"
+      },
+      {
+        "name": "Third Grade-Wednesday-4th"
+      },
+      {
+        "name": "Third Grade-Wednesday-5th"
+      },
+      {
+        "name": "Third Grade-Thursday-1st"
+      },
+      {
+        "name": "Third Grade-Thursday-2nd"
+      },
+      {
+        "name": "Third Grade-Thursday-3rd"
+      },
+      {
+        "name": "Third Grade-Thursday-4th"
+      },
+      {
+        "name": "Third Grade-Thursday-5th"
+      },
+     
+      {
+        "name": "Fourth Grade-Saturday-1st"
+      },
+      {
+        "name": "Fourth Grade-Saturday-2nd"
+      },
+      {
+        "name": "Fourth Grade-Saturday-3rd"
+      },
+      {
+        "name": "Fourth Grade-Saturday-4th"
+      },
+      {
+        "name": "Fourth Grade-Saturday-5th"
+      },
+      {
+        "name": "Fourth Grade-Sunday-1st"
+      },
+      {
+        "name": "Fourth Grade-Sunday-2nd"
+      },
+      {
+        "name": "Fourth Grade-Sunday-3rd"
+      },
+      {
+        "name": "Fourth Grade-Sunday-4th"
+      },
+      {
+        "name": "Fourth Grade-Sunday-5th"
+      },
+      {
+        "name": "Fourth Grade-Monday-1st"
+      },
+      {
+        "name": "Fourth Grade-Monday-2nd"
+      },
+      {
+        "name": "Fourth Grade-Monday-3rd"
+      },
+      {
+        "name": "Fourth Grade-Monday-4th"
+      },
+      {
+        "name": "Fourth Grade-Monday-5th"
+      },
+      {
+        "name": "Fourth Grade-Tuesday-1st"
+      },
+      {
+        "name": "Fourth Grade-Tuesday-2nd"
+      },
+      
+      {
+        "name": "Fourth Grade-Tuesday-4th"
+      },
+      {
+        "name": "Fourth Grade-Tuesday-5th"
+      },
+      {
+        "name": "Fourth Grade-Wednesday-1st"
+      },
+      {
+        "name": "Fourth Grade-Wednesday-2nd"
+      },
+      {
+        "name": "Fourth Grade-Wednesday-3rd"
+      },
+      {
+        "name": "Fourth Grade-Wednesday-4th"
+      },
+      {
+        "name": "Fourth Grade-Wednesday-5th"
+      },
+      {
+        "name": "Fourth Grade-Thursday-1st"
+      },
+      {
+        "name": "Fourth Grade-Thursday-2nd"
+      },
+      {
+        "name": "Fourth Grade-Thursday-3rd"
+      },
+      {
+        "name": "Fourth Grade-Thursday-4th"
+      },
+      {
+        "name": "Fourth Grade-Thursday-5th"
+      }
+     
+    ]
+    
+}
