@@ -1,7 +1,10 @@
 ﻿# lecture_schedules_project
 
 
-https://github.com/user-attachments/assets/8a13c51c-31d0-4d79-9ff9-f31ffd5e2970
+
+
+https://github.com/user-attachments/assets/a0be39a6-8c8e-4c0c-8ba7-cf13e3e04621
+
 
 ## 1 - 
 `First` the table is shown to all the students without any signup or accounts 
